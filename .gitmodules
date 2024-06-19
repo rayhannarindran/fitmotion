@@ -1,0 +1,3 @@
+[submodule "fitmotion_model"]
+	path = fitmotion_model
+	url = https://github.com/rayhannarindran/fitmotion_model
