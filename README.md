@@ -48,7 +48,7 @@ df
 
 after some preprocessing, the data is then passed to the train model to predic the movement which outputs as such
 ```
-std
+wlk
 ```
 
 # Cloud Computing
